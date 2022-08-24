@@ -50,24 +50,33 @@ body{
     margin: 10px 0;
     height: 404px;
     text-align: center;
-    font-size: 43px;
+
     top: 10px;
     cursor: pointer;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
-}
-.btn{
-    padding: 10px 0;
-    background: #E8E8E8;
 
+    font-weight: 500;
 }
 .btn2{
     padding: 10px 0;
     background: #C5C5C5;
     color: #A70909;
+    cursor: pointer;
 }
 .btn3{
-    padding: 10px 0;
-    background: #C5C5C5;
+
     color: green;
+}
+.bb{
+    border: none;
+    background-color: #E8E8E8;
+    font-size: 43px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+.opp{
+    border: none;
+    background-color: #C5C5C5;
+    font-size: 43px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
 }
